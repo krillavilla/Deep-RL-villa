@@ -1,0 +1,3 @@
+[submodule "navigation-rl-agent"]
+	path = navigation-rl-agent
+	url = https://github.com/krillavilla/navigation-rl-agent.git
